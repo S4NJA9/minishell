@@ -1,0 +1,9 @@
+# Compiled executable
+minishell
+
+# Backup files
+*.backup
+*.bak
+
+# Object files
+*.o
